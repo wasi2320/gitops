@@ -3,9 +3,7 @@ This repository is designed to manage infrastructure and application deployments
 
 .
 ├── argocd-projects/        # Contains ArgoCD project definitions
-
 │   ├── project1.yaml       # Example project configuration
-
 │   └── project2.yaml       # Additional project configurations
 ├── deployments/            # Contains application deployment configurations
 │   ├── manifests/          # Kubernetes manifest files for deployments
